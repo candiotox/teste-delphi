@@ -1,0 +1,16 @@
+create table funcionario (
+	id int not null primary key,
+	nome varchar(60),
+	cpf varchar(20)
+);
+
+create table dependente(
+	id int not null primary key,
+	id_funcionario int not null,
+	nome varchar(60),
+        calcularIR varchar(1),
+        calclularINSS varchar(1)	
+);
+
+alter table dependente add foreign key (id_funcionario) references funcionario (id);
+

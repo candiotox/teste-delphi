@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2015/12/15 22:39:25.000.213,=C:\Users\candi\OneDrive\Documentos\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2017/04/29 19:33:38.000.209,=C:\Users\candi\OneDrive\Documentos\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2018/12/10 21:28:40.000.181,=C:\Users\candi\OneDrive\Documentos\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2018/12/10 21:45:51.000.667,H:\Testes Theos\Exercicio1\unPrincipal.pas=C:\Users\candi\OneDrive\Documentos\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2018/12/10 21:45:51.000.667,H:\Testes Theos\Exercicio1\unPrincipal.dfm=C:\Users\candi\OneDrive\Documentos\Embarcadero\Studio\Projects\Unit1.dfm</Transaction>
+    <Transaction>2018/12/10 21:54:19.000.009,H:\Testes Theos\Exercicio1\pCalculadora.dproj=C:\Users\candi\OneDrive\Documentos\Embarcadero\Studio\Projects\Project1.dproj</Transaction>
+  </Transactions>
+</BorlandProject>
