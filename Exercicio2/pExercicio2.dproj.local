@@ -3,15 +3,15 @@
 	<Transactions>
     <Transaction>2015/12/15 22:39:25.000.213,=C:\Users\candi\OneDrive\Documentos\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
     <Transaction>2017/04/29 19:33:38.000.209,=C:\Users\candi\OneDrive\Documentos\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
-    <Transaction>2018/12/12 20:16:26.107,=C:\Users\candi\OneDrive\Documentos\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
-    <Transaction>2018/12/12 20:17:14.098,C:\Users\candi\OneDrive\Área de Trabalho\Testes Theos\Exercicio2\unPrincipal.pas=C:\Users\candi\OneDrive\Documentos\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
-    <Transaction>2018/12/12 20:17:14.098,C:\Users\candi\OneDrive\Área de Trabalho\Testes Theos\Exercicio2\unPrincipal.dfm=C:\Users\candi\OneDrive\Documentos\Embarcadero\Studio\Projects\Unit1.dfm</Transaction>
-    <Transaction>2018/12/12 20:17:24.548,C:\Users\candi\OneDrive\Área de Trabalho\Testes Theos\Exercicio2\pExercicio2.dproj=C:\Users\candi\OneDrive\Documentos\Embarcadero\Studio\Projects\Project1.dproj</Transaction>
-    <Transaction>2018/12/12 20:17:37.335,=C:\Users\candi\OneDrive\Área de Trabalho\Testes Theos\Exercicio2\Unit1.pas</Transaction>
-    <Transaction>2018/12/12 20:18:43.608,C:\Users\candi\OneDrive\Área de Trabalho\Testes Theos\Exercicio2\unFuncionario.pas=C:\Users\candi\OneDrive\Área de Trabalho\Testes Theos\Exercicio2\Unit1.pas</Transaction>
-    <Transaction>2018/12/12 20:19:13.758,=C:\Users\candi\OneDrive\Área de Trabalho\Testes Theos\Exercicio2\Unit1.pas</Transaction>
-    <Transaction>2018/12/12 20:19:42.009,C:\Users\candi\OneDrive\Área de Trabalho\Testes Theos\Exercicio2\unDependente.pas=C:\Users\candi\OneDrive\Área de Trabalho\Testes Theos\Exercicio2\Unit1.pas</Transaction>
-    <Transaction>2018/12/12 21:20:17.298,=C:\Users\candi\OneDrive\Área de Trabalho\Testes Theos\Exercicio2\Unit1.pas</Transaction>
-    <Transaction>2018/12/12 21:20:47.981,C:\Users\candi\OneDrive\Área de Trabalho\Testes Theos\Exercicio2\unConnectionFireDAC.pas=C:\Users\candi\OneDrive\Área de Trabalho\Testes Theos\Exercicio2\Unit1.pas</Transaction>
+    <Transaction>2018/12/12 20:16:26.000.107,=C:\Users\candi\OneDrive\Documentos\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2018/12/12 20:17:14.000.098,C:\Users\candi\OneDrive\Documentos\Embarcadero\Studio\Projects\Unit1.dfm=C:\Users\candi\OneDrive\Área de Trabalho\Testes Theos\Exercicio2\unPrincipal.dfm</Transaction>
+    <Transaction>2018/12/12 20:17:14.000.098,C:\Users\candi\OneDrive\Documentos\Embarcadero\Studio\Projects\Unit1.pas=C:\Users\candi\OneDrive\Área de Trabalho\Testes Theos\Exercicio2\unPrincipal.pas</Transaction>
+    <Transaction>2018/12/12 20:17:24.000.548,C:\Users\candi\OneDrive\Documentos\Embarcadero\Studio\Projects\Project1.dproj=C:\Users\candi\OneDrive\Área de Trabalho\Testes Theos\Exercicio2\pExercicio2.dproj</Transaction>
+    <Transaction>2018/12/12 20:17:37.000.335,=C:\Users\candi\OneDrive\Área de Trabalho\Testes Theos\Exercicio2\Unit1.pas</Transaction>
+    <Transaction>2018/12/12 20:18:43.000.608,C:\Users\candi\OneDrive\Área de Trabalho\Testes Theos\Exercicio2\Unit1.pas=C:\Users\candi\OneDrive\Área de Trabalho\Testes Theos\Exercicio2\unFuncionario.pas</Transaction>
+    <Transaction>2018/12/12 20:19:13.000.758,=C:\Users\candi\OneDrive\Área de Trabalho\Testes Theos\Exercicio2\Unit1.pas</Transaction>
+    <Transaction>2018/12/12 20:19:42.000.009,C:\Users\candi\OneDrive\Área de Trabalho\Testes Theos\Exercicio2\Unit1.pas=C:\Users\candi\OneDrive\Área de Trabalho\Testes Theos\Exercicio2\unDependente.pas</Transaction>
+    <Transaction>2018/12/12 21:20:17.000.298,=C:\Users\candi\OneDrive\Área de Trabalho\Testes Theos\Exercicio2\Unit1.pas</Transaction>
+    <Transaction>2018/12/12 21:20:47.000.981,C:\Users\candi\OneDrive\Área de Trabalho\Testes Theos\Exercicio2\Unit1.pas=C:\Users\candi\OneDrive\Área de Trabalho\Testes Theos\Exercicio2\unConnectionFireDAC.pas</Transaction>
   </Transactions>
 </BorlandProject>

@@ -66,22 +66,4 @@ object Form1: TForm1
     NumbersOnly = True
     TabOrder = 3
   end
-  object FDConnection1: TFDConnection
-    Params.Strings = (
-      'User_Name=sysdba'
-      'Password=masterkey'
-      'DriverID=FB')
-    LoginPrompt = False
-    Left = 136
-    Top = 288
-  end
-  object FDQuery1: TFDQuery
-    Connection = FDConnection1
-    Left = 128
-    Top = 368
-  end
-  object FDPhysFBDriverLink1: TFDPhysFBDriverLink
-    Left = 264
-    Top = 288
-  end
 end

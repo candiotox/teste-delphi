@@ -19,9 +19,6 @@ type
     Label1: TLabel;
     edNome: TEdit;
     Label2: TLabel;
-    FDConnection1: TFDConnection;
-    FDQuery1: TFDQuery;
-    FDPhysFBDriverLink1: TFDPhysFBDriverLink;
     Edit1: TEdit;
     Label3: TLabel;
     procedure btnGravarClick(Sender: TObject);
@@ -50,9 +47,9 @@ begin
      funcionatio.Salario := StrToFloatDef(edSalario.Text, 0);
      funcionatio.Dependentes.Add(TDependente.Create('Dependente 1', True, True));
      funcionatio.Dependentes.Add(TDependente.Create('Dependente 2', True, True));
-     //funcionatio.gravar;
+     funcionatio.gravar;
 
-     ShowMessage(funcionatio.getSalarioLiquido.ToString);
+     //ShowMessage(funcionatio.getSalarioLiquido.ToString);
   finally
     funcionatio.Free;
   end;
